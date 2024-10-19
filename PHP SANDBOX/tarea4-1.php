@@ -5,10 +5,11 @@
     $exite = true; // variable tipo booleano
     echo "Variable entera: ";
     echo $dia;
-    echo PHP_EOL;;
+    echo PHP_EOL;
     echo "Variable double: ";
     echo $sueldo;
-    echo "Varaible string: ";
+       echo PHP_EOL;
+    echo "Variable string: ";
     echo $nombre;
     echo PHP_EOL;
     echo "Varaible Boolean: ";
